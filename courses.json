@@ -1,0 +1,128 @@
+[
+	{
+		"course_code": "CUS 1102",
+		"crn": "12943",
+		"title": "SOFTWARE APPLICATION",
+		"instructor": "Felicetti, Robert Alvaro",
+		"course_day": "Tuesday, Friday",
+		"seats_available": 0,
+		"course_type": "Lecture"
+	},
+	{
+		"course_code": "CUS1115",
+		"crn": "11501",
+		"title": "COMPUTER PROGRAM FUNDAMENTAL I",
+		"instructor": "DeBello, Joan",
+		"course_day": "Monday, Thursday",
+		"seats_available": 0,
+		"course_type": "Lecture, Lab"
+	},
+	{
+		"course_code": "CUS 1156",
+		"crn": "12560",
+		"title": "SOFTWARE DESIGN METHODS",
+		"instructor": "Yadav, Nikhil",
+		"course_day": "Thursday",
+		"seats_available": 0,
+		"course_type":"Hybrid-Classroom, Online"
+	},
+{
+	"course_code": "CUS 1165",
+	"crn": "15328",
+	"title": "DATA BASE MANAGEMENT SYSTEMS",
+	"instructor": "Bukhari, Syed Ahmad Chan",
+	"course_day": "Wednesday",
+	"seats_available": 10,
+	"course_type":"Lecture"
+},
+{
+	"course_code": "CUS 1172",
+	"crn": "15412",
+	"title": "WEB PAGE GRAPHICS",
+	"instructor": "Christoforou, Christoforos",
+	"course_day": "Thursday",
+	"seats_available": 0,
+	"course_type":"Hybrid-Classroom, Online"
+},
+{
+	"course_code": "IT 1011",
+	"crn": "13136",
+	"title": "INFO TECHNOLOGY FOR BUSINESS",
+	"instructor": "Dick, Geoffrey",
+	"course_day": "Monday, Thursday",
+	"seats_available": 19,
+	"course_type":"Lecture, Lab"
+},
+{
+	"course_code": "MTH 1003",
+	"crn": "10748",
+	"title": "INTRO TO COLLEGE MATH I",
+	"instructor": "Malone, William",
+	"course_day": "Tuesday, Friday",
+	"seats_available": 0,
+	"course_type":"Lecture"
+},
+{
+	"course_code": "MTH 1008",
+	"crn": "10127",
+	"title": "MATRIX METHODS",
+	"instructor": "Laneri, Peter",
+	"course_day": "Tuesday, Friday",
+	"seats_available": 5,
+	"course_type":"Lecture"
+},
+{
+	"course_code": "MTH 1009",
+	"crn": "10505",
+	"title": "MATRIX METHODS",
+	"instructor": "Cerulli, Thomas",
+	"course_day": "Monday, Thursday",
+	"seats_available": 0,
+	"course_type":"Lecture"
+},
+{
+	"course_code": "NET 1011",
+	"crn": "11882",
+	"title": "INTRODUCTION TO NETWORKS",
+	"instructor": "Greenidge, Maxine",
+	"course_day": "Wednesday",
+	"seats_available": 0,
+	"course_type":"Lecture, Lab"
+},
+{
+	"course_code": "HCI 1002",
+	"crn": "15413",
+	"title": "HEALTHCARE INFORMATION AND MANAGEMENT",
+	"instructor": "Bukhari, Syed Ahmad Chan",
+	"course_day": "Tuesday, Friday",
+	"seats_available": 14,
+	"course_type":"Lecture, Lab"
+},
+{
+	"course_code": "HCI 1021",
+	"crn": "11881",
+	"title": "HEALTHCARE DATABASE MANAGEMENT SYSTEM",
+	"instructor": "Bukhari, Syed Ahmad Chan",
+	"course_day": "Wednesday",
+	"seats_available": 4,
+	"course_type":"Lecture"
+},
+{
+	"course_code": "CSS 1005",
+	"crn": "13323",
+	"title": "FUNDAMENTALS OF CYBER SECURITY",
+	"instructor": "Troja, Erald",
+	"course_day": "Friday",
+	"seats_available": 0,
+	"course_type":"Hybrid-Classroom, Online"
+},
+{
+	"course_code": "CSS 1018",
+	"crn": "15411",
+	"title": "SQL AND CLOUD DATABASE SECURITY",
+	"instructor": "Chacko, Anil",
+	"course_day": "Monday",
+	"seats_available": 2,
+	"course_type":"Lecture, Lab"
+}
+]
