@@ -1,4 +1,4 @@
-
+# To clone: git clone https://github.com/tttyung/final-project
 
 # To run the code, run the command node server.js in the root directory
 
